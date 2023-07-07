@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <h1>Heloo</h1>
+     <h1>Привіт командо!TS чекає на вас</h1>
     </>
   )
 }
